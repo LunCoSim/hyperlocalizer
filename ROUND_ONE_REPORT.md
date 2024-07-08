@@ -13,6 +13,11 @@ The funds after Sybil detection will distributed according to Gitcoin suggested 
 
 ### Payout transactions
 
+1. [Arbitrum](https://arbiscan.io/tx/0x3ab449bfd70ce6802f877066e2f874dc3188a31a751da1ee459ecbb361e4d400)
+2. [Scroll](https://scrollscan.com/tx/0xa9e3f1798b952e25b0dc7a5edcb55f81a38640d194486fd2bcf41608963f14e3)
+3. [Optimism](https://optimistic.etherscan.io/tx/0x3660e697c4446c4c2911b781ecc4464a3dd316236b7a63d56246051651aec81c)
+4. [Polygon](https://polygonscan.com/tx/0x85e231e7f4873b7c6dcf1b00d15e6b3c249f0d703588b1a7eac7ceb3cc617585)
+5. [Base](https://basescan.org/tx/0x0558db1d826c590d8288dc5b8e401928d46137dcf874d14cd41cc8e5290085fb)
 ### Total stats by chains
 
 | Chain     | Contributors | Contributions | Donated $ | Projects Count |
